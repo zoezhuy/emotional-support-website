@@ -1,7 +1,7 @@
 # Emotional Support Companion —— AI 情感支持对话产品
 AI-Powered Emotional Support Web Application
 
-🔗 Product Prototype / 产品原型演示：https://sync-lair-09050008.figma.site
+🔗 Product Prototype / 产品原型演示：[https://sync-lair-09050008.figma.site](https://emotion-support.figma.site/)
 
 ---
 
